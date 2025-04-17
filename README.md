@@ -1,36 +1,38 @@
-# EduSalary – University Salary Explorer 🚀  
-**Explore public university salaries by name, title, or department.**  
-**Transparency tool for academic salaries in the United States.**  
+# EduSalary – University Salary Explorer 🔎💰  
+**Explore salaries at all U.S. public universities — by name, title, or department**  
+**Your trusted resource for transparent university salary data**  
 🌐 [Visit Website → edusalary.com](https://edusalary.com)
 
-EduSalary is an independent salary transparency platform offering public salary data for faculty, administrators, and staff at public universities in the United States.  
-Built to empower students, researchers, and the public with clear access to academic compensation records.
+EduSalary is a free, independent salary transparency platform covering **all public universities in the United States**.  
+Our mission is to make faculty and administrative pay data publicly accessible, easy to understand, and searchable by everyone.
 
 ---
 
 ## 🔍 Features
 
 - Search by **employee name**, **job title**, or **department**
-- Compare salaries across **public universities**
-- Filter by salary range, faculty roles, or administration
-- Responsive, clean UI for desktop and mobile
+- Compare salaries across **every public university in the U.S.**
+- Filter by salary range, role (faculty/admin), or institution
+- Clean, mobile-responsive UI
 
 ---
 
-## 🏛️ Current Coverage
+## 🏛️ Data Coverage
 
-- 📍 **University of Illinois system**
-- 💼 Additional universities coming soon!
-- 🕒 Last updated: **March 2025**
+EduSalary includes salary data from **every publicly funded university across all 50 U.S. states**.
+
+- Updated annually
+- Covers faculty, administrative staff, and public university employees
+- Most recent data update: **March 2025**
 
 ---
 
-## 🌐 Website & Hosting
+## 🌐 Hosting & Tech Stack
 
 - **Website**: [https://edusalary.com](https://edusalary.com)  
-- **Hosting**: Google Cloud Platform (GCP)  
-- **Backend**: Node.js / Express  
+- **Hosted on**: Google Cloud Platform (GCP)  
 - **Frontend**: React / Next.js  
+- **Backend**: Node.js / Express  
 - **Database**: PostgreSQL  
 
 ---
@@ -40,88 +42,89 @@ Built to empower students, researchers, and the public with clear access to acad
 ### 1. General Questions
 
 **What is EduSalary?**  
-EduSalary is a salary transparency tool that provides publicly available salary information for employees at public universities. It promotes open data and informed decision-making.
+EduSalary is a salary transparency tool offering publicly available salary information for employees at public universities across the United States. It helps job seekers, students, and researchers explore academic compensation and wage trends.
 
-**Is EduSalary affiliated with any university?**  
-No, EduSalary is an independent project unaffiliated with any university. All data is from publicly available records.
+**Is EduSalary affiliated with any universities?**  
+No — EduSalary is an independent platform. All salary data is sourced from public records, including government databases and official university disclosures.
 
 **What universities are included?**  
-Currently: University of Illinois. Expansion planned — suggest your university via [Contact Us](https://edusalary.com/contact).
+All public universities in the U.S. are included. If you notice a missing school or dataset, let us know via [Contact Us](https://edusalary.com/contact).
 
 **Why was EduSalary created?**  
-To promote transparency and provide accessible, reliable salary data in higher education.
+To promote public transparency and ensure salary data is accessible, navigable, and useful for all — from students to journalists to faculty.
 
-**How often is data updated?**  
-Annually. The site is updated continuously for design and search features.
+**How often is salary data updated?**  
+Once a year, based on the most recent available reports. We update platform features continuously to improve the user experience.
 
 ---
 
 ### 2. Data & Accuracy
 
-**Where is the data from?**  
-- Illinois state transparency records  
-- University of Illinois salary disclosures  
-- Public government databases  
+**Where does the salary data come from?**  
+- Publicly released university salary disclosures  
+- State transparency websites  
+- Legally available government databases  
 
-**Do you include bonuses or benefits?**  
-No — we currently only display base salary figures.
+**Are bonuses or benefits included?**  
+Not currently. We report **base salary** figures only, as those are the most consistently reported across institutions.
 
-**Can I report an error?**  
-Yes — use the [Contact Us page](https://edusalary.com/contact) to submit corrections.
+**Can I request a correction?**  
+Absolutely. Use our [Contact Us](https://edusalary.com/contact) page to report any inaccuracies or missing data.
 
 ---
 
 ### 3. Using the Website
 
-**How do I search for someone?**  
-Search by:
-- Employee name  
-- Job title  
+**How do I search for a salary?**  
+Use the search bar to find results by:
+- Name  
+- Title  
 - Department  
-Filter by role or salary range for more accuracy.
+- Institution  
 
-**Can I compare salaries by department?**  
-Yes — our filters allow salary comparisons within departments or roles.
+**Can I compare salaries within departments or universities?**  
+Yes — our filters let you compare within specific departments, schools, or job categories.
 
 ---
 
 ### 4. Privacy & Legal
 
-**Is it legal to display this data?**  
-Yes. Public employee salaries are legally public under Illinois records laws.
+**Is this data legal to publish?**  
+Yes — salaries for public university employees are considered public information under U.S. transparency laws.
 
 **Can I request to remove my name?**  
-We do not remove names from public datasets but will review legitimate concerns.
+As this is public data, names are not removed unless there's a legal error or misrepresentation. We take privacy concerns seriously and review all requests.
 
-**How are privacy concerns handled?**  
-EduSalary only publishes verified public data and complies with transparency laws respectfully.
-
----
-
-### 5. Future Plans & Feedback
-
-**What’s next?**  
-- More universities  
-- Historical salary trends  
-- Cost-of-living adjustments  
-- Department-level breakdowns  
-
-**How can I support EduSalary?**
-- Share the site  
-- Offer feedback  
-- Donate to help us grow
+**How do you handle sensitive information?**  
+We never publish anything not already made public through official disclosures. We focus strictly on salary figures and do not display personal contact details or sensitive employment records.
 
 ---
 
-### 6. Additional Resources
+### 5. Future Plans & Support
 
-**How are salaries determined?**
-- University compensation guidelines  
-- Illinois public sector laws  
-- National salary benchmarks  
+**What’s next for EduSalary?**  
+- More detailed historical salary comparisons  
+- Cost of living-adjusted salary calculators  
+- Department-level wage visualizations  
+- Public high school and community college salary integration
 
-**Questions?**  
-Visit [https://edusalary.com/contact](https://edusalary.com/contact)
+**How can I help?**
+- Share EduSalary with others  
+- Submit feedback and bug reports  
+- Contribute via donation or GitHub PR
+
+---
+
+### 6. More Info
+
+**Where can I learn how university salaries are set?**  
+Check out:
+- Public university salary policies  
+- State budget transparency resources  
+- Our [Sources](https://edusalary.com/sources) page
+
+**Need help or have questions?**  
+Reach us via [https://edusalary.com/contact](https://edusalary.com/contact)
 
 ---
 
@@ -133,10 +136,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contribute
 
-EduSalary is open to suggestions and contributions.  
-Feel free to fork this repo, submit pull requests, or open issues.
+EduSalary is open to contributors!  
+If you have ideas, corrections, or improvements, submit a PR or open an issue.
 
----
-
-> Made with ❤️ to support transparency in education.  
-> Powered by open data. Hosted on Google Cloud.  
+> Built with ❤️ for transparency. Powered by open records and public data.
